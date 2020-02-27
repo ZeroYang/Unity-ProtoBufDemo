@@ -1,0 +1,7 @@
+F:\unity_workspace\SoketServer\SoketServer\bin\Debug\SoketServer.exe.config
+F:\unity_workspace\SoketServer\SoketServer\bin\Debug\SoketServer.exe
+F:\unity_workspace\SoketServer\SoketServer\bin\Debug\SoketServer.pdb
+F:\unity_workspace\SoketServer\SoketServer\obj\Debug\SoketServer.csprojResolveAssemblyReference.cache
+F:\unity_workspace\SoketServer\SoketServer\obj\Debug\SoketServer.exe
+F:\unity_workspace\SoketServer\SoketServer\obj\Debug\SoketServer.pdb
+F:\unity_workspace\SoketServer\SoketServer\bin\Debug\protobuf-net.dll

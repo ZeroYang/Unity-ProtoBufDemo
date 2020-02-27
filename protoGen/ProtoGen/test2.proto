@@ -1,0 +1,15 @@
+//有用到 test1 的东西需要导入 test1
+
+import "test1.proto";
+
+//这里定义直接使用的消息体
+
+package Test.App;
+
+//定义消息体
+
+message SuperHero
+{
+    required Test.Base.Hero hero = 1;
+    required string superSkill = 2;
+}

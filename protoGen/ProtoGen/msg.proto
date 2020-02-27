@@ -1,0 +1,13 @@
+// 物品
+message Item
+{
+    required int32 Type 	= 1;	//游戏物品大类
+    optional int32 SubType 	= 2;	//游戏物品小类
+    required int32 num 		= 3;	//游戏物品数量
+}
+
+// 物品列表
+message ItemList
+{
+    repeated Item item 	= 1;	//物品列表
+}

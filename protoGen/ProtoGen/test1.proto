@@ -1,0 +1,26 @@
+//这里定义基础的消息体或枚举
+
+package Test.Base;
+
+//定义枚举
+
+enum Sex
+{
+    MALE = 0;
+    FEMALE = 1;
+}
+
+//定义消息体
+
+message People
+{
+    required string name = 1;
+    required Sex sex = 2;
+    optional int32 age = 3;
+}
+
+message Hero
+{
+    required People people = 1;
+    optional string skill = 2;
+}
